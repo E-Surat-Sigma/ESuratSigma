@@ -1,4 +1,4 @@
-# E-Surat 📄  
+# E-Surat Sigma Kelompok 5B 📄  
 
 **E-Surat** adalah aplikasi manajemen dokumen berbasis Java yang dirancang untuk mempermudah pengelolaan surat antara mahasiswa dan dosen. Aplikasi ini menawarkan fitur-fitur seperti pengiriman surat, tagging, dan pengelolaan status surat untuk meningkatkan efisiensi dan transparansi.
 
